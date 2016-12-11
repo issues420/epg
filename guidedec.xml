@@ -70,37 +70,6 @@
 		<display-name>509 Fox News</display-name>
 		<display-name>509</display-name>
 	</channel>
-	<programme start="20161211130000 +0000" stop="20161211131000 +0000" channel="I101.751696.microsoft.com">
-		<title lang="en">RTÉ News: One O'Clock</title>
-		<desc lang="en">News and weather reports.</desc>
-		<date>20161211</date>
-		<category lang="en">News</category>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<episode-num system="ms_progid">18.234826648</episode-num>
-	</programme>
-	<programme start="20161211131000 +0000" stop="20161211134000 +0000" channel="I101.751696.microsoft.com">
-		<title lang="en">Ear to the Ground</title>
-		<desc lang="en">Topical farming and environmental show. The team see how My Lovely Horse Rescue's two farms in Co Kildare rehabilitates and re-home abandoned and abused animals. Co Wexford farmers reflect on how the farm has changed for the better.</desc>
-		<date>20161208</date>
-		<category lang="en">Documentary</category>
-		<category lang="en">Environment</category>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<episode-num system="ms_progid">18.233930929</episode-num>
-		<previously-shown start="20161208000000" />
-	</programme>
-	<programme start="20161211134000 +0000" stop="20161211144000 +0000" channel="I101.751696.microsoft.com">
-		<title lang="en">Winning Streak</title>
-		<desc lang="en">Marty Whelan and Sinéad Kennedy return with the National Lottery scratchcard gameshow. This time two players have the opportunity to spin the iconic Grand Prize Wheel.</desc>
-		<date>20161210</date>
-		<category lang="en">Game Show</category>
-		<category lang="en">Series</category>
-		<category lang="en">Shows</category>
-		<length units="minutes">60</length>
-		<episode-num system="ms_progid">18.234825684</episode-num>
-		<previously-shown start="20161210000000" />
-	</programme>
 	<programme start="20161211144000 +0000" stop="20161211151000 +0000" channel="I101.751696.microsoft.com">
 		<title lang="en">The Taste of Success</title>
 		<desc lang="en">The food competition continues as the contestants face the Lidl judges for the first time. It is they who will ultimately decide who wins the chance to have their products on shelves of more than 140 Lidl Ireland stores nationwide in a prize worth €100,000.</desc>
@@ -893,15 +862,18 @@
 		<episode-num system="ms_progid">18.234607042</episode-num>
 		<previously-shown start="20161212000000" />
 	</programme>
-	<programme start="20161211130000 +0000" stop="20161211140000 +0000" channel="I102.24905.microsoft.com">
-		<title lang="en">Gok's Fashion Fix</title>
-		<desc lang="en">Fashion makeover series. Gok Wan shows NHS manager Lisa from Burton upon Trent how to fall back in love with coloured clothes, Calendar Girls star Lynda Bellingham challenges Gok to show her how to look sensational at 60, and the road testers in Rotherham try to find the perfect blouse for sizes 16-28 in a supermarket sweep.</desc>
-		<date>20090428</date>
-		<category lang="en">Fashion</category>
+	<programme start="20161213140500 +0000" stop="20161213150000 +0000" channel="I101.751696.microsoft.com">
+		<title lang="en">Grand Designs</title>
+		<desc lang="en">Series following householders who are on a mission to design and decorate their dream home from scratch.</desc>
+		<credits>
+			<presenter>Kevin McCloud</presenter>
+		</credits>
+		<date>20030207</date>
 		<category lang="en">Interests</category>
+		<category lang="en">Other</category>
 		<category lang="en">Series</category>
 		<length units="minutes">60</length>
-		<episode-num system="ms_progid">18.15915705</episode-num>
+		<episode-num system="ms_progid">18.1908064</episode-num>
 	</programme>
 	<programme start="20161211140000 +0000" stop="20161211142500 +0000" channel="I102.24905.microsoft.com">
 		<title lang="en">The Goldbergs</title>
@@ -2397,24 +2369,35 @@
 		<length units="minutes">20</length>
 		<episode-num system="ms_progid">18.7818746</episode-num>
 	</programme>
-	<programme start="20161211132500 +0000" stop="20161211133000 +0000" channel="I104.421060.microsoft.com">
-		<title lang="en">An Aimsir Láithreach</title>
-		<desc lang="en">Aimsir náisiúnta agus idirnáisiúnta. (National and international weather).</desc>
-		<date>19981017</date>
-		<category lang="en">News</category>
+	<programme start="20161213134500 +0000" stop="20161213141000 +0000" channel="I102.24905.microsoft.com">
+		<title lang="en">Pinky and the Brain</title>
+		<desc lang="en">Cartoon chaos with the anarchic pair.</desc>
+		<date>20051031</date>
+		<category lang="en">Animation</category>
+		<category lang="en">Children</category>
 		<category lang="en">Series</category>
-		<length units="minutes">2</length>
-		<episode-num system="ms_progid">18.733582</episode-num>
+		<length units="minutes">30</length>
+		<episode-num system="ms_progid">18.5583603</episode-num>
 	</programme>
-	<programme start="20161211133000 +0000" stop="20161211155500 +0000" channel="I104.421060.microsoft.com">
-		<title lang="en">GAA Beo</title>
-		<desc lang="en">Craoladh beo ar Naomh Uinseann (Áth Cliath) v Ród (Uíbh Fhailí) i gCluiche Ceannais Peile Laighean. (Live coverage of St Vincent's (Dublin) v Rhode (Offaly) in the Leinster Football Final from O'Moore Park, Port Laoise. Presented by Micheál Ó Domhnaill with commentary by Mac Dara Mac Donncha and Tomás Ó Flatharta).</desc>
-		<date>20161211</date>
-		<category lang="en">Football</category>
+	<programme start="20161213141000 +0000" stop="20161213143500 +0000" channel="I102.24905.microsoft.com">
+		<title lang="en">Tom and Jerry Kids</title>
+		<desc lang="en">Animated adventures with the young Tom and Jerry.</desc>
+		<date>19980512</date>
+		<category lang="en">Animation</category>
+		<category lang="en">Children</category>
 		<category lang="en">Series</category>
-		<category lang="en">Sports</category>
-		<length units="minutes">105</length>
-		<episode-num system="ms_progid">18.236156463</episode-num>
+		<length units="minutes">25</length>
+		<episode-num system="ms_progid">18.680061</episode-num>
+	</programme>
+	<programme start="20161213143500 +0000" stop="20161213150000 +0000" channel="I102.24905.microsoft.com">
+		<title lang="en">Teen Titans</title>
+		<desc lang="en">Animated series about five teenage superheroes who fight assorted baddies from their headquarters at Titans Tower.</desc>
+		<date>20031102</date>
+		<category lang="en">Animation</category>
+		<category lang="en">Children</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<episode-num system="ms_progid">18.4935491</episode-num>
 	</programme>
 	<programme start="20161211155500 +0000" stop="20161211162500 +0000" channel="I104.421060.microsoft.com">
 		<title lang="en">An Post Rás na mBan</title>
@@ -3467,32 +3450,15 @@
 		<length units="minutes">60</length>
 		<episode-num system="ms_progid">18.381082</episode-num>
 	</programme>
-	<programme start="20161211130000 +0000" stop="20161211140000 +0000" channel="I124.26232.microsoft.com">
-		<title lang="en">NCIS</title>
-		<sub-title lang="en">Restless</sub-title>
-		<desc lang="en">US crime drama series. The NCIS team investigate the death of a young marine who arrived at his homecoming party with a stab wound.</desc>
-		<credits>
-			<director>James Whitmore Jr</director>
-			<actor>Mark Harmon</actor>
-			<actor>Michael Weatherly</actor>
-			<actor>Cote de Pablo</actor>
-			<actor>Pauley Perrette</actor>
-			<actor>Sean Murray</actor>
-			<actor>David McCallum</actor>
-			<actor>Brian Dietzen</actor>
-			<actor>Taylor Nichols</actor>
-			<actor>Bonnie Dennison</actor>
-			<actor>Sam Lerner</actor>
-		</credits>
-		<date>2011</date>
-		<category lang="en">Crime</category>
-		<category lang="en">Drama</category>
+	<programme start="20161213140500 +0000" stop="20161213150000 +0000" channel="I104.421060.microsoft.com">
+		<title lang="en">The Weakest Link</title>
+		<desc lang="en">Anne Robinson presents the quickfire general knowledge quiz in which contestants eliminate the weakest team member at the end of each round.</desc>
+		<date>20010101</date>
+		<category lang="en">Game Show</category>
 		<category lang="en">Series</category>
-		<length units="minutes">60</length>
-		<episode-num system="ms_progid">18.34822175</episode-num>
-		<star-rating>
-			<value>4/4</value>
-		</star-rating>
+		<category lang="en">Shows</category>
+		<length units="minutes">45</length>
+		<episode-num system="ms_progid">18.1054709</episode-num>
 	</programme>
 	<programme start="20161211140000 +0000" stop="20161211150000 +0000" channel="I124.26232.microsoft.com">
 		<title lang="en">The Mentalist</title>
@@ -4516,13 +4482,32 @@
 			<value>4/4</value>
 		</star-rating>
 	</programme>
-	<programme start="20161211133000 +0000" stop="20161211150000 +0000" channel="I410.750611.microsoft.com">
-		<title lang="en">Live Biathlon World Cup</title>
-		<date>20161211</date>
-		<category lang="en">Athletics</category>
-		<category lang="en">Sports</category>
-		<length units="minutes">90</length>
-		<episode-num system="ms_progid">18.233353660</episode-num>
+	<programme start="20161213140000 +0000" stop="20161213150000 +0000" channel="I124.26232.microsoft.com">
+		<title lang="en">NCIS</title>
+		<sub-title lang="en">Enemy on the Hill</sub-title>
+		<desc lang="en">Drama series following the US navy's dedicated federal agency. When a contract killer murders a Navy lieutenant commander, the NCIS team has to find out the motive behind it. Abby learns valuable information about the case after going through a series of kidney donation tests.</desc>
+		<credits>
+			<director>Dennis Smith</director>
+			<actor>Mark Harmon</actor>
+			<actor>Michael Weatherly</actor>
+			<actor>Cote de Pablo</actor>
+			<actor>Pauley Perrette</actor>
+			<actor>Sean Murray</actor>
+			<actor>David McCallum</actor>
+			<actor>Jack Conley</actor>
+			<actor>Brett Tucker</actor>
+			<actor>Michael B Silver</actor>
+			<actor>Melissa Ponzio</actor>
+		</credits>
+		<date>2011</date>
+		<category lang="en">Crime</category>
+		<category lang="en">Drama</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<episode-num system="ms_progid">18.35435858</episode-num>
+		<star-rating>
+			<value>4/4</value>
+		</star-rating>
 	</programme>
 	<programme start="20161211150000 +0000" stop="20161211154500 +0000" channel="I410.750611.microsoft.com">
 		<title lang="en">Live Ski Jumping World Cup</title>
@@ -4844,23 +4829,13 @@
 		<length units="minutes">105</length>
 		<episode-num system="ms_progid">18.232803855</episode-num>
 	</programme>
-	<programme start="20161211133000 +0000" stop="20161211135500 +0000" channel="I423.753280.microsoft.com">
-		<title lang="en">Free View: Sporting Legends</title>
-		<desc lang="en">A look at the life of Jack Kyle, a Belfast rugby union player who played for Ireland, the British Lions and the Barbarians.</desc>
-		<date>20140924</date>
+	<programme start="20161213143000 +0000" stop="20161213160000 +0000" channel="I410.750611.microsoft.com">
+		<title lang="en">Live Scottish Open Snooker</title>
+		<date>20161213</date>
 		<category lang="en">Other</category>
 		<category lang="en">Sports</category>
-		<length units="minutes">30</length>
-		<episode-num system="ms_progid">18.129794001</episode-num>
-	</programme>
-	<programme start="20161211135500 +0000" stop="20161211155500 +0000" channel="I423.753280.microsoft.com">
-		<title lang="en">Live Serie A: Atalanta v Udinese</title>
-		<desc lang="en">Top flight action from Serie A in Italy.</desc>
-		<date>20161211</date>
-		<category lang="en">Football</category>
-		<category lang="en">Sports</category>
-		<length units="minutes">125</length>
-		<episode-num system="ms_progid">18.236126783</episode-num>
+		<length units="minutes">105</length>
+		<episode-num system="ms_progid">18.232803855</episode-num>
 	</programme>
 	<programme start="20161211155500 +0000" stop="20161211180000 +0000" channel="I423.753280.microsoft.com">
 		<title lang="en">Live Ligue 1: St Etienne v Guingamp</title>
@@ -5178,5 +5153,14 @@
 		<category lang="en">Sports</category>
 		<length units="minutes">30</length>
 		<episode-num system="ms_progid">18.236132038</episode-num>
+	</programme>
+	<programme start="20161213140000 +0000" stop="20161213160000 +0000" channel="I423.753280.microsoft.com">
+		<title lang="en">Serie A: Inter v Genoa</title>
+		<desc lang="en">Top flight action from Serie A in Italy.</desc>
+		<date>20161213</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		<length units="minutes">125</length>
+		<episode-num system="ms_progid">18.236132829</episode-num>
 	</programme>
 </tv>
