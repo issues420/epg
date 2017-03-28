@@ -328,7 +328,7 @@ http://djing.com/tv/dancefloor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Videos 3" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/499.png" group-title="Music",Music Videos 3
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="Music Videos 4" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/507.png" group-title="Music",Music Videos 4
-http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_backup_c/chunks.m3u8
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_backup_d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Videos 5" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/505.png" group-title="Music",Music Videos 5
 rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:-1 tvg-id="" tvg-name="Music Videos 6" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/277.png" group-title="Music",Music Videos 6
@@ -1683,6 +1683,34 @@ http://p1.iptvrocket.tv/live/514546814925/514546814925/103.ts
 http://p1.iptvrocket.tv/live/514546814925/514546814925/104.ts
 #EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3636.png" group-title="Information",Test
 http://p1.iptvrocket.tv/live/514546814925/514546814925/833.ts
+#EXTINF:-1 tvg-id="" tvg-name="We Don't Belong Here" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3972.jpg" group-title="Movies",We Don't Belong Here
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walk of Fame" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3971.jpg" group-title="Movies",Walk of Fame
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Space Between Us" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3970.jpg" group-title="Movies",The Space Between Us
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Split" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3969.jpg" group-title="Movies",Split
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Mermaid" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3968.jpg" group-title="Movies",Little Mermaid
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bitter Harvest" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3967.jpg" group-title="Movies",Bitter Harvest
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atomica" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3966.jpg" group-title="Movies",Atomica
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="From a House on Willow Street" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3965.jpg" group-title="Movies",From a House on Willow Street
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A United Kingdom" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3964.jpg" group-title="Movies",A United Kingdom
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali & Nino" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3963.jpg" group-title="Movies",Ali & Nino
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All Nighter" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3962.jpg" group-title="Movies",All Nighter
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bhaji in Problem (IN)" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3961.jpg" group-title="Foreign",Bhaji in Problem (IN)
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rock On 2 (IN)" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3960.jpg" group-title="Foreign",Rock On 2 (IN)
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sellvandhan (IN)" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3959.jpg" group-title="Foreign",Sellvandhan (IN)
+http://p1.iptvrocket.tv/movie/514546814925/514546814925/3954.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Larceny (ES)" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3958.jpg" group-title="Peliculas",Larceny (ES)
 http://p1.iptvrocket.tv/movie/514546814925/514546814925/3953.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy of Horrors (ES)" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/screenshots/40/3957.jpg" group-title="Peliculas",Galaxy of Horrors (ES)
